@@ -1,4 +1,4 @@
-# Mysterious Passenger 1/2
+# Mysterious Passenger [1/2]
 
 ## Énoncé :
 
